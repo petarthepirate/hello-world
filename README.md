@@ -1,2 +1,3 @@
 # hello-world
-opening first
+
+Wadddaaa up, this is my first repo fam.
